@@ -1,0 +1,1 @@
+/opt/bitnami/magento/htdocs/vendor/magento/module-paypal/view/adminhtml/web/js/rules.js
